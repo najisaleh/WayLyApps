@@ -332,7 +332,7 @@
                     </div>
                     <div class="app-desc">تطبيق احترافي لتعلم قواعد والمحادثة الإنجليزية باللهجة العراقية مع مدرب ذكي وصوت مدمج.</div>
                 </div>
-                 <a href="app-detail.html" class="download-btn" style="background: transparent; border: 1px solid var(--accent-teal); color: var(--accent-teal); margin-top: 8px;">التفاصيل والتحميل 📄</a>
+                <a href="https://github.com/najisaleh/WayLyApp/releases/download/v2.1/wayly-english.apk" class="download-action-btn" download>تحميل التطبيق (15 MB) 📥</a>
             </div>
 
             <!-- تطبيق 2: WayLy German -->
