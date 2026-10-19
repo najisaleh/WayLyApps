@@ -332,7 +332,7 @@
                     </div>
                     <div class="app-desc">تطبيق احترافي لتعلم قواعد والمحادثة الإنجليزية باللهجة العراقية مع مدرب ذكي وصوت مدمج.</div>
                 </div>
-                <a href="https://github.com/najisaleh/WayLyApp/releases/download/v2.1/wayly-english.apk" class="download-action-btn" download>تحميل التطبيق (15 MB) 📥</a>
+                <a href="https://github.com/najisaleh/WayLyApp/releases/download/v2.1/wayly-english.apk" class="download-btn" download>تحميل التطبيق (15 MB) 📥</a>
             </div>
 
             <!-- تطبيق 2: WayLy German -->
@@ -348,7 +348,7 @@
                     </div>
                     <div class="app-desc">تعلم اللغة الألمانية من الصفر، القواعد، وأبرز عبارات السفر اليومية مع نطق صوتي دقيق.</div>
                 </div>
-                <a href="#" class="download-btn">تحميل APK 📥</a>
+                <a href="#" class="download-btn" download>تحميل التطبيق (18 MB) 📥</a>
             </div>
 
             <!-- تطبيق 3: WayLySat Iraq -->
@@ -364,7 +364,7 @@
                     </div>
                     <div class="app-desc">فايندر ستلايت ذكي ومخصص لمحافظات العراق، حساب زوايا السمت والارتفاع وربط الرسيفر المحلي.</div>
                 </div>
-                <a href="#" class="download-btn">تحميل APK 📥</a>
+                <a href="#" class="download-btn" download>تحميل التطبيق (12 MB) 📥</a>
             </div>
 
             <!-- تطبيق 4: WayLy Turkish -->
@@ -380,7 +380,7 @@
                     </div>
                     <div class="app-desc">تعلم اللغة التركية، القواعد وحروفها الخاصة، مع دليل شامل لعبارات السفر والأسواق.</div>
                 </div>
-                <a href="#" class="download-btn">تحميل APK 📥</a>
+                <a href="#" class="download-btn" download>تحميل التطبيق (16 MB) 📥</a>
             </div>
 
             <div class="no-results" id="noResults">عذراً، لم يتم العثور على أي تطبيق مطابق لبحثك.</div>
